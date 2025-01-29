@@ -4,6 +4,7 @@
 - Completed `01`,`02`,`03` and `04`
 
 # Day 2
--started 05 and completed the lesson
+- started 05 and completed the lesson
 - problem solved 20 
 - 20 problems related to `Array` with Difficulty `Easy`
+- more array problems done in `solutions/morearray` from the video
