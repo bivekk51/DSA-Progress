@@ -1,5 +1,6 @@
 
-
+# Completed 
+# Solutions on `/solutions/02`
 ## Write Java programs for the following:
 
 1. Write a program to print whether a number is even or odd, also take
@@ -15,4 +16,4 @@ find Simple Interest.
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
 
-# Solutions on `/solutions/02`
+

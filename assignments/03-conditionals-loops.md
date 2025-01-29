@@ -1,4 +1,7 @@
 
+
+# Completed 
+# Solutions on `/solutions/03`
 ## Write Java programs for the following: 
 
 ### Basic Java Programs
@@ -59,4 +62,4 @@ all.
 25. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.
 26. Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 
-# Solutions on `/solutions/03`
+
